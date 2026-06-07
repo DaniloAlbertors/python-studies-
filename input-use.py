@@ -1,8 +1,7 @@
-years = int(input("How old are you (in years)? "))
-months = int(input("How many months after your last birthday? "))
-days = int(input("How many days after the completed months? "))
+name = input("What is your name? ")
+birth_year = int(input("What year were you born? "))
+current_year = int(input("What year are we in? "))
+# User age calculation
+age = current_year - birth_year
 
-## User age calculation
-age_in_days = (years * 365) + (months * 30) + days
-
-print("Your age in days is", age_in_days)
+print(f"Your name is {name} and you are {age} years old")
