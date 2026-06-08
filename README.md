@@ -1,29 +1,29 @@
-# 🐍 Meus Estudos em Python
+# 🐍 My Python Studies
 
-Bem-vindo ao meu repositório de estudos! Aqui guardo os códigos, algoritmos e pequenos exercícios que desenvolvi durante meu aprendizado em Python. 
+Welcome to my study repository! Here I keep the codes, algorithms, and small exercises I've developed while learning Python. 
 
-O objetivo deste espaço é documentar a minha evolução na programação, praticar a estruturação de lógicas e manter uma base de consulta rápida dos conceitos que estou absorvendo.
+The goal of this space is to document my evolution in programming, practice logic structuring, and maintain a quick reference base for the concepts I am absorbing.
 
-## 🎯 Sobre o Repositório
+## 🎯 About the Repository
 
-Neste repositório, você encontrará códigos simples, mas que representam os fundamentos da minha jornada como desenvolvedor. O foco principal aqui é o domínio da lógica de programação e o entendimento da sintaxe e dos recursos do Python.
+In this repository, you will find simple codes that represent the foundations of my journey as a developer. The main focus here is mastering programming logic and understanding Python's syntax and features.
 
-## 📂 O que você vai encontrar aqui
+## 📂 What you will find here
 
-* Exercícios práticos de lógica de programação.
-* Estruturas condicionais (`if`, `elif`, `else`) e de repetição (`for`, `while`).
-* Manipulação de variáveis, listas e tipos de dados.
-* Criação e estruturação de funções básicas.
+* Practical programming logic exercises.
+* Conditional statements (`if`, `elif`, `else`) and loops (`for`, `while`).
+* Manipulation of variables, lists, and data types.
+* Creation and structuring of basic functions.
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Technologies Used
 
-* **Linguagem:** Python
-* **Foco:** Back-end e Lógica de Programação
-S
-## 👨‍💻 Autor
+* **Language:** Python
+* **Focus:** Back-end and Programming Logic
+
+## 👨‍💻 Author
 
 **Danilo Alberto Rodrigues da Silva**
-*Estudante de Tecnologia | Desenvolvedor em formação*
+*Technology Student | Developer in training*
 
 * **LinkedIn:** [Danilo Alberto](https://www.linkedin.com/in/danilo-alb)
 * **E-mail:** danilossalbertoss@gmail.com
